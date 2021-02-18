@@ -1,0 +1,18 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+h2 {
+    color: darkmagenta;
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+ul {
+    line-height: 40px;
+}
